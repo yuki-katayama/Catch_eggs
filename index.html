@@ -9,13 +9,21 @@
   <!--画面全体-->
   <body>
     <!--白い枠の領域-->
-    <div class="white-box">
-      <!--タイトルの領域-->
+    <!--タイトルの領域-->
+      <div class="white-box">
+        <div class="title">
+          卵キャッチゲーム
+        </div>
 
       <!--ゲームの領域-->
-
+      <div class="canvas">
+        <canvas id="canvas" width="800" height="400"></canvas>
+        <script src="game.js"></script>
+      </div>
       <!--再読み込みボタンの領域-->
-
+      <div class ="reload">
+        <button type="button" onClick="ft_reset();">やり直す</button>
+      </div>
     </div>
   </body>
 </html>
