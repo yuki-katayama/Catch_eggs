@@ -1,4 +1,6 @@
 # Catch_eggs
+## Play Game
+https://yuki-katayama.github.io/Catch_eggs/index.html
 ## 日本語
 ### 概要
 バスケットを動かして、卵に入ったヒヨコをキャッチするゲームです。
