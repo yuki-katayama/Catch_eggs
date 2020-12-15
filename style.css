@@ -9,12 +9,14 @@ body{
 	background: #FFFFFF;
 	display: inline-block;
 	width: 850px;
+	background:url("./image/background.jpg")
 }
 
 .title{
 	font-size: 35px;
 	font-weight: bold;
 	margin: 10px;
+	color: white;
   }
 
   button{

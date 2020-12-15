@@ -3,9 +3,11 @@
 https://yuki-katayama.github.io/Catch_eggs/index.html
 ## 日本語
 ### 概要
-バスケットを動かして、卵に入ったヒヨコをキャッチするゲームです。
+バスケットを動かして、卵をキャッチするゲームです。
 
-ヒヨコ:        10点
+卵:        10点
+
+ヒヨコ(レア)	20点
 
 サッカーボール: -10点
 
@@ -23,9 +25,11 @@ game.jsで、以下の点が変更可能
 
 ## English 
 ### Overview
-Move the basket to catch the chick in the egg.
+Move the basket to catch the egg.
 
-Chick: 10 points
+egg: 10 points
+
+Chick (rare) 20 points
 
 Soccer ball: -10 points
 
@@ -42,6 +46,6 @@ The following points can be changed in game.js
 + Percentage of points earned for each item
 + Position of item appearance, etc.
 
-![pic-1](https://i.gyazo.com/8cbaccc55f467359b70a60897f5bf8cc.png)
-![pic-2](https://i.gyazo.com/80fedfacee906d440a044caaa912e7a7.png)
-![pic-3](https://i.gyazo.com/b875c643c703a7bbc5e8ef6ad028b19a.png)
+![pic-1](https://i.gyazo.com/8adc0723dda34e6aecdeead8ffa0ceac.png)
+![pic-2](https://i.gyazo.com/c6ee1ae7584378c420439c0fd62442dc.png)
+![pic-3](https://i.gyazo.com/4e0b49962e8e8efd3e7dea4815c6f96a.png)
